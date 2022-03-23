@@ -11,15 +11,30 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Metro Bank** (June 2018 - October 2021)  
+_Call Centre Coach_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
+- Coaching new colleagues to the highest level to take inbound calls from customers.
+- Using a variety of coaching tools, making sure to select the best one for each moment.
+- Meticulous attention to detail, especially concerning security and fraud.
+- Become acting manager when needed, directing the other coaches and ensuring everything flows smoothly.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+
+**Metro Bank** (June 2017 - June 2018)  
+_Phone Representative_
+
+- Taking calls from customers and serving them to the highest quality.
+- Ensuring a proper record of their call is kept, and following up any tasks needed to fulfil their request.
+- Achieved consistently high scores on customer satisfaction surveys
+
+
+**Kumon** (July 2011 - May 2017)  
+_Senior Assistant_
 
 - Any experience relevent to software development
+-
+-
 
 ## Skills
 
