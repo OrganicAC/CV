@@ -6,8 +6,8 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Name                         | Description       | Tech/tools        |Repo/Website|
 | ---------------------------- | ----------------- | ----------------- |----|
-|<a href="https://github.com/BenCoyne/RPG-Game"><img align="bottom" alt="myAce" width="400px" src="https://github.com/ravensears/A-Pinkmans-Journey/blob/main/src/sprites/logo.png?raw=true" /></a>| A Pinkman's Journey is a top-down RPG webapp built in Phaser 3. The player must find a series of clues before the clock runs out. | Phaser 3, JavaScript, Node.js, Express, Jest, Heroku, Github Actions, Logic Pro X  |https://lonely-hearts-club.herokuapp.com/game
-|<a href ="https://github.com/BenCoyne/Team-myAce-acebook-rails-template"><img align="bottom" alt="myAce" width="400px" src="https://myace.herokuapp.com/images/myace_logo_v2.svg" /></a> | A social media webapp loosely based on facebook. Users can create accounts, edit their avatar, post on a main wall and post on each others' walls. | Ruby on Rails, CSS, Bootstrap, Heroku, CI/CD PSQL, HTML, Github Actions, Rspec, Capybara               |https://myace.herokuapp.com
+|<a href="https://github.com/OrganicAC/A-Pinkmans-Journey"><img align="bottom" alt="myAce" width="400px" src="https://github.com/ravensears/A-Pinkmans-Journey/blob/main/src/sprites/logo.png?raw=true" /></a>| A Pinkman's Journey is a top-down RPG webapp built in Phaser 3. The player must find a series of clues before the clock runs out. | Phaser 3, JavaScript, Node.js, Express, Jest, Heroku, Github Actions, Logic Pro X  |https://lonely-hearts-club.herokuapp.com/game
+|<a href ="https://github.com/OrganicAC/Team-myAce-acebook-rails-template"><img align="bottom" alt="myAce" width="400px" src="https://myace.herokuapp.com/images/myace_logo_v2.svg" /></a> | A social media webapp loosely based on facebook. Users can create accounts, edit their avatar, post on a main wall and post on each others' walls. | Ruby on Rails, CSS, Bootstrap, Heroku, CI/CD PSQL, HTML, Github Actions, Rspec, Capybara               |https://myace.herokuapp.com
 
 ## Work Experience
 
