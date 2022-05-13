@@ -26,29 +26,32 @@ An intense 16 week coding bootcamp that taught self-learning, good coding practi
 **Metro Bank** (June 2018 - October 2021)  
 _Call Centre Coach_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-- Coaching new colleagues to the highest level to take inbound calls from customers.
-- Using a variety of coaching tools, making sure to select the best one for each moment.
-- Meticulous attention to detail, especially concerning security and fraud.
-- Become acting manager when needed, directing the other coaches and ensuring everything flows smoothly.
+- Coaching new colleagues to the highest level to take inbound calls from customers
+- Using a variety of coaching tools, empathy, and patience to guide colleagues
+- Meticulous attention to detail, especially concerning security and fraud
+- Regularly adopting a leadership role to help keep the team running smoothly
 
 
 **Metro Bank** (June 2017 - June 2018)  
 _Phone Representative_
 
-- Taking calls from customers and serving them to the highest quality.
-- Ensuring a proper record of their call is kept, and following up any tasks needed to fulfil their request.
+- Taking calls from customers and completing them to the highest quality
+- Ensuring a proper record of their call is kept, and following up any tasks needed to fulfil their request
 - Achieved consistently high scores on customer satisfaction surveys
+- Multitasking, helping other colleagues with their queries whilst managing my own calls
 
 
 **Kumon** (July 2011 - May 2017)  
 _Senior Assistant_
 
-- Any experience relevent to software development
--
--
+- Assisting wherever needed, helping children with work, marking, or handling parent's queries
+- Acting manager whenever the manager was in a meeting
+- Worked with the children to ensure they completed work in a timely fashion
 
 ## Skills
+
+
+Skills: Empathy, Problem Solving, Attention to Detail
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
