@@ -1,6 +1,6 @@
 ## Anthony Chaplin
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Junior Full Stack Developer who recently graduated from Maker's Academy, a highly selective 16 week bootcamp. Building upon previous experience in banking and customer services, I have developed many key skills. I am highly collaborative, and frequently take the lead, whether looking after my team at work or making decisions for a project, and also highly capable when working by myself. Working in a bank helped develop me into a fast learner and made me highly adaptable, traits which have been invaluable moving into the tech world. 
 
 ## Projects
 
