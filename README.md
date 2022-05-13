@@ -68,25 +68,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+#### Makers Academy (Nov 2021 - Mar 2022)
+An intense 16 week coding bootcamp that taught self-learning, good coding practice, as well as a number of important principles. 
+- Pair programming for daily tasks, as well as teamwork for projects.
+- Gave and received code reviews at the start of each week
+- A focus on testing and TDD to ensure clean and well written code
+- Following industry standard principles such as DRY and SOLID
+- When working on projects, used MVP's, created and followed User Stories
+- Followed Agile methodology, having stand ups and retros
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Gaming (Video, Board, Tabletop), Creative Writing, Baking
