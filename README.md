@@ -9,6 +9,18 @@ Junior Full Stack Developer who recently graduated from Maker's Academy, a highl
 |<a href="https://github.com/OrganicAC/A-Pinkmans-Journey"><img align="bottom" alt="myAce" width="400px" src="https://github.com/ravensears/A-Pinkmans-Journey/blob/main/src/sprites/logo.png?raw=true" /></a>| A Pinkman's Journey is a top-down RPG webapp built in Phaser 3. The player must find a series of clues before the clock runs out. | Phaser 3, JavaScript, Node.js, Express, Jest, Heroku, Github Actions, Logic Pro X  |https://lonely-hearts-club.herokuapp.com/game
 |<a href ="https://github.com/OrganicAC/Team-myAce-acebook-rails-template"><img align="bottom" alt="myAce" width="400px" src="https://myace.herokuapp.com/images/myace_logo_v2.svg" /></a> | A social media webapp loosely based on facebook. Users can create accounts, edit their avatar, post on a main wall and post on each others' walls. | Ruby on Rails, CSS, Bootstrap, Heroku, CI/CD PSQL, HTML, Github Actions, Rspec, Capybara               |https://myace.herokuapp.com
 
+
+## Education
+
+#### Makers Academy (Nov 2021 - Mar 2022)
+An intense 16 week coding bootcamp that taught self-learning, good coding practice, as well as a number of important principles. 
+- Pair programming for daily tasks, as well as teamwork for projects.
+- Gave and received code reviews at the start of each week
+- A focus on testing and TDD to ensure clean and well written code
+- Following industry standard principles such as DRY and SOLID
+- When working on projects, used MVP's, created and followed User Stories
+- Followed Agile methodology, having stand ups and retros
+
 ## Work Experience
 
 **Metro Bank** (June 2018 - October 2021)  
@@ -65,17 +77,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
-
-## Education
-
-#### Makers Academy (Nov 2021 - Mar 2022)
-An intense 16 week coding bootcamp that taught self-learning, good coding practice, as well as a number of important principles. 
-- Pair programming for daily tasks, as well as teamwork for projects.
-- Gave and received code reviews at the start of each week
-- A focus on testing and TDD to ensure clean and well written code
-- Following industry standard principles such as DRY and SOLID
-- When working on projects, used MVP's, created and followed User Stories
-- Followed Agile methodology, having stand ups and retros
 
 ## Hobbies
 
